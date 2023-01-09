@@ -3,3 +3,5 @@ En el siguiente repositorio se cargan diferentes tipos de archivos: las credenci
 Los datos extraidos de la API de tweeter corresponden a la búsqueda de tweets que contengan las palabras "energía sostenible'.
 De los tweets obtenidos se extraen la cuenta de procedencia y la fecha de realización del tweet.
 Finalmente se extraen algunos datos de las cuentas más etiquetadas en este tipo de tweets.
+
+Enlace a colab: https://colab.research.google.com/drive/1OuOx1RpCrvp8tGX_bJ1WnfJCxIOhQEM1#scrollTo=_R2--pNK7W6D
